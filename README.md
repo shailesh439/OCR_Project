@@ -1,7 +1,7 @@
 # OCR_Project
 Project is completed in three steps
 first, PDF changes into image.
-then apply pyteseract to ixtract text from images. 
+then apply pyteseract to extract text from images. 
 finaly, results like mobile, email, hyperlink, education are extacted using REGX function.
 
 
