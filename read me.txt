@@ -1,0 +1,4 @@
+1. Assignment 2 is python file run in jupyter notebook
+
+2. 'Result' consists of all pdf results (mobile, email, hyperlink, education extraction)
+  
